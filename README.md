@@ -158,12 +158,12 @@ Contributors are credited in [AUTHORS.md](https://github.com/register360/webburn
     <td align="center">
       <b>Pavan Nani</b><br />
       Chief Executive Officer<br />
-      <a href="https://www.instagram.com/pavanknani1">@pavanknani1</a>
+      <a href="https://www.instagram.com/pavanknani1">@pavanknani</a>
     </td>
     <td align="center">
       <b>Sunny Kiran</b><br />
       Director<br />
-      <a href="https://www.instagram.com/__sunny.02_/">@pavanknani1</a>
+      <a href="https://www.instagram.com/__sunny.02_/">@sunnykiran</a>
     </td>
   </tr>
 </table>

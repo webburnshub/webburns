@@ -61,9 +61,9 @@ WebburnsTech builds across four product categories. Every release ships through 
 | Platform | Description | Link |
 |---|---|---|
 | **Webburns Anime** | Modern, ad-free anime streaming — community-supported and open. | [anime.webburnstech.dev](https://anime.webburnstech.dev) |
-| **Webburns TV** | Video streaming platform for the WebburnsTech community. | [webburnstech.dev](https://www.webburnstech.dev) |
-| **Webburns Chat** | Real-time encrypted messaging for the developer community. | [webburnstech.dev](https://www.webburnstech.dev) |
-| **Webburns FUMS** | Community collaboration and internal platform tools. | [webburnstech.dev](https://www.webburnstech.dev) |
+| **Webburns TV** | Video streaming platform for the WebburnsTech community. | [webburnstech.dev](https://tv.webburnstech.dev) |
+| **Webburns Chat** | Real-time encrypted messaging for the developer community. | [webburnstech.dev](https://chat.webburnstech.dev) |
+| **Webburns FUMS** | Community collaboration and internal platform tools. | [webburnstech.dev](https://fums.webburnstech.dev) |
 
 ### 🏢 Business & client tools
 
@@ -163,7 +163,7 @@ Contributors are credited in [AUTHORS.md](https://github.com/register360/webburn
     <td align="center">
       <b>Sunny Kiran</b><br />
       Director<br />
-      WebburnsTech Core Team
+      <a href="https://www.instagram.com/__sunny.02_/">@pavanknani1</a>
     </td>
   </tr>
 </table>
@@ -219,8 +219,27 @@ Donations power: **Webburns AI** · **Webburns Anime** · **Webburns Learn** · 
 All public repositories released through this hub are licensed under the **MIT License** unless otherwise stated.
 
 ```
-MIT License — Copyright (c) 2025 WebburnsTech
-Free to use, modify, and distribute with attribution.
+MIT License
+
+Copyright (c) 2025 WebburnsTech (Webburns Technologies)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 ```
 
 See [LICENSE](https://github.com/register360/webburnstech.com/blob/main/LICENSE) for full terms.

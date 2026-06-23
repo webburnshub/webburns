@@ -61,9 +61,9 @@ WebburnsTech builds across four product categories. Every release ships through 
 | Platform | Description | Link |
 |---|---|---|
 | **Webburns Anime** | Modern, ad-free anime streaming — community-supported and open. | [anime.webburnstech.dev](https://anime.webburnstech.dev) |
-| **Webburns TV** | Video streaming platform for the WebburnsTech community. | [webburnstech.dev](https://tv.webburnstech.dev) |
-| **Webburns Chat** | Real-time encrypted messaging for the developer community. | [webburnstech.dev](https://chat.webburnstech.dev) |
-| **Webburns FUMS** | Community collaboration and internal platform tools. | [webburnstech.dev](https://fums.webburnstech.dev) |
+| **Webburns TV** | Video streaming platform for the WebburnsTech community. | [tv.webburnstech.dev](https://tv.webburnstech.dev) |
+| **Webburns Chat** | Real-time encrypted messaging for the developer community. | [chat.webburnstech.dev](https://chat.webburnstech.dev) |
+| **Webburns FUMS** | Community collaboration and internal platform tools. | [fums.webburnstech.dev](https://fums.webburnstech.dev) |
 
 ### 🏢 Business & client tools
 

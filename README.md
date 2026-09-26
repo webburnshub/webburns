@@ -46,7 +46,7 @@ WebburnsTech builds across four product categories. Every release ships through 
 
 | Platform | Description | Link |
 |---|---|---|
-| **Webburns AI** | AI-powered tools and assistants built for developers. Covers GPU compute, model APIs, and intelligent automation. | [ai.webburnstech.dev](https://ai.webburnstech.dev) |
+| **Webburns AI** | AI-powered tools and assistants built for developers. Covers GPU compute, model APIs, and intelligent automation. | [ai.webburnstech.dev](https://webburnsai.webburnstech.dev) |
 | **WebburnsTech Labs** | Experimental research division — early-access prototypes, R&D projects, and bleeding-edge experiments. | [labs.webburnstech.dev](https://labs.webburnstech.dev) |
 
 ### 📚 Learning & education
